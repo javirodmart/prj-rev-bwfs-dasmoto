@@ -1,0 +1,41 @@
+.div1{
+  font-family: Helvetica;
+  font-size: 50px;
+  font-weight:bold;
+  color:khaki;
+  background-image:url("pattern.jpeg");
+  text-align:center;
+}
+
+.div2{
+  font-family:Helvetica;
+  font-size:32px;
+  font-weight:bold;
+  color:white;
+background-color: mediumspringgreen;
+}
+
+.div3{
+  font-family:Helvetica;
+  font-size:32px;
+  font-weight:bold;
+  color:white;
+  background-color: lightcoral;
+
+}
+
+.div4{
+  font-family:Helvetica;
+  font-size:32px;
+  font-weight:bold;
+  color:white;
+  background-color: skyblue;
+}
+
+
+#price{
+  font-family: Helvetica;
+  font-weight: bold;
+  color:blue
+
+}
